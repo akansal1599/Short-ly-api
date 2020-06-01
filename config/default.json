@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://abhishek:oiuytrew@cluster1-bp5ix.gcp.mongodb.net/test?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "https://short-lyy.netlify.app"
 }
